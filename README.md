@@ -15,7 +15,7 @@ Process :-
 
 5] Adding second convolutioanl layer
 
-6] Flatenning
+6] Flattening
 
 7] Connections by specifying number of neurons
 
