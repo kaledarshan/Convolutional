@@ -2,7 +2,9 @@
 Deep learning to identify dog or cat in the given image.
 Process :- 
 Data Preprocessing.
+
 Image Agumentation for train as well as test set.
+
 Convolutional Neural Nework Initialising.
 Adding convolutional layer
 Pooling
